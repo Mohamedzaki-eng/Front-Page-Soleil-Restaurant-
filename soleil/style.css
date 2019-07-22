@@ -1,0 +1,29 @@
+
+body {
+    background-image: url(imgs/rest1.jpg);background-repeat: repeat;background-attachment:fixed;
+}
+
+.button {
+    padding: 20px;
+    background-color: white;
+    color: brown;
+    border-radius: 20px;
+}
+
+.button:hover {
+    background-color: lightgray;
+    border-radius: 20px;
+}
+
+.bg {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url();
+    background-size: 100%;
+}
+
+
